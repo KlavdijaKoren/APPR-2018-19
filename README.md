@@ -7,17 +7,23 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2018/19
 * [![Shiny](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/jaanos/APPR-2018-19/master?urlpath=shiny/APPR-2018-19/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://beta.mybinder.org/v2/gh/KorenK17/APPR-2018-19/master?urlpath=rstudio) RStudio
 
+
 ## Analiza kulturnih domov, glasbe in gledališč
 
 Moja projektna naloga govori o kulturnih prireditvah v različnih kulturnih ustanovah oz. domovih. Podatke bom predstavila v tabelah naštetih spodaj. Zanimali me bodo predvsem podatki o določenih prireditvah na primer vrste kulturnih prireditev in njihovo število gledano letno ter število obiskovalcev. Govorila bom tudi o prodaji vstopnic na primer prihodek od prodaj, brezplačne vstopnice, povprečne cene le teh ter ob tem omenila tudi vir pihodkov in stroške različnih kulturnih ustanov oz. prireditev. Na kratko bom govorila tudi o festivalih, ki pa so le podkategorija mojih prejšnjih podatkov. Kot zanimivost pa bom dodala tudi podatke o ustanovah, ki omogočajo dostop gibalnim in senzorno oviranim osebam.
 
-Vse podatke bom pridobila na statističnemu uradu Republike Slovenije (SI-STAT) pod tematiko Kultura.
+Vse podatke bom pridobila na statističnemu uradu Republike Slovenije (SI-STAT) pod tematiko Kultura. 
 
 ## Tabele
 
-
+* Tabela 1: vrsta predstavitev, vrsta enote (ustanove), leto, Slovenija
+* Tabela 2: vrsta predstavitev, število predstavitev, število obiskovalcev, leto, SLovenija
+* Tabela 3: vrsta enote, število prireditev, prihodek od prodaje vstopic, brezplačne vstopnice, viri prihodkov in stroški, leto, Slovenija
+* Tabela 4: vrsta festivalov, vrsta enote, število festivalov, število festivalnih prireditev, leto, Slovenija
+* Tabela 5: dostop gibalno in senzorno oviranih oseb, vrsta dostopa, vrsta enote, leto, Slovenija
 
 ## Viri
+
 
 
 
