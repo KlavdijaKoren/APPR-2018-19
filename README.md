@@ -24,8 +24,18 @@ Vse podatke bom pridobila na statističnemu uradu Republike Slovenije (SI-STAT) 
 
 ## Viri
 
+* https://pxweb.stat.si/pxweb/Database/Dem_soc/10_kultura/03_10807_kultura_oder/03_10807_kultura_oder.asp
 
+Viri tabel:
+* Tabela 1: https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=1080706S&ti=&path=../Database/Dem_soc/10_kultura/03_10807_kultura_oder/&lang=2
 
+* Tabela 2: https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=1080710S&ti=&path=../Database/Dem_soc/10_kultura/03_10807_kultura_oder/&lang=2
+
+* Tabela 3: https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=1080715S&ti=&path=../Database/Dem_soc/10_kultura/03_10807_kultura_oder/&lang=2, https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=1080775S&ti=&path=../Database/Dem_soc/10_kultura/03_10807_kultura_oder/&lang=2
+
+* Tabela 4: https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=1080740S&ti=&path=../Database/Dem_soc/10_kultura/03_10807_kultura_oder/&lang=2
+
+* Tabela 5: https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=1080760S&ti=&path=../Database/Dem_soc/10_kultura/03_10807_kultura_oder/&lang=2
 
 ## Program
 
