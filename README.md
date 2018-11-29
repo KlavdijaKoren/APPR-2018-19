@@ -24,7 +24,7 @@ Vse podatke bom pridobila na statističnemu uradu Republike Slovenije (SI-STAT) 
 
 ## Viri
 
-* https://pxweb.stat.si/pxweb/Database/Dem_soc/10_kultura/03_10807_kultura_oder/03_10807_kultura_oder.asp
+SI-STAT: https://pxweb.stat.si/pxweb/Database/Dem_soc/10_kultura/03_10807_kultura_oder/03_10807_kultura_oder.asp
 
 Viri tabel:
 * Tabela 1: https://pxweb.stat.si/pxweb/Dialog/varval.asp?ma=1080706S&ti=&path=../Database/Dem_soc/10_kultura/03_10807_kultura_oder/&lang=2
